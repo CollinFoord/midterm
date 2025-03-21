@@ -1,20 +1,20 @@
 export const dashboardConfig = [
-    // {
-    //     id: "sleepBreakdown",
-    //     type: "SleepBreakdown",
-    // },
-    // {
-    //     id: "sleepDuration",
-    //     type: "SleepDuration",
-    // },
-    // {
-    //     id: "sleepEfficiency",
-    //     type: "SleepEfficiency",
-    // },
-    // {
-    //     id: "steps",
-    //     type: "Steps"
-    // },
+    {
+        id: "sleepBreakdown",
+        type: "SleepBreakdown",
+    },
+    {
+        id: "sleepDuration",
+        type: "SleepDuration",
+    },
+    {
+        id: "sleepEfficiency",
+        type: "SleepEfficiency",
+    },
+    {
+        id: "steps",
+      type: "Steps"
+    },/*
     {
         id: `dummyWidget-1`,
         type: "DummyWidget",
@@ -42,7 +42,7 @@ export const dashboardConfig = [
     {
         id: `dummyWidget-7`,
         type: "DummyWidget",
-    },
+    },*/
 ];
 
 /*
